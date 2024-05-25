@@ -1,3 +1,15 @@
+# OpenAPS
+
+OpenAPS (Open Analogue Pocket Streamer) is a project that aims to stream your gameplay from the Analogue Pocket console to your PC. The goal of this project is to enable a range of functionalities to enhance your gaming experience, including:
+
+- **Gameplay Recording**: Capture your gameplay sessions directly to your PC for later review or sharing.
+- **Live Streaming**: Broadcast your gameplay in real-time to platforms like Twitch and YouTube, leveraging the powerful streaming capabilities of OBS (Open Broadcaster Software).
+
+This project was born during this [Reddit discussion](https://www.reddit.com/r/AnaloguePocket/comments/1cwzqur/screen_broadcasting_from_analogue_pocket_to_pc/) where redditors shared their visions and ideas.
+
+Whether you're looking to record your gameplay for personal archives or share your gaming skills with a broader audience, OpenAPS will someday offer the tools you need to elevate your gaming content.
+
+
 ## logs
 ### 24.05.25
 ```
